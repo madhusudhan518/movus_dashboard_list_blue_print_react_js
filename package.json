@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@blueprintjs/core": "^3.7.0",
+    "@blueprintjs/docs-theme": "^3.0.3",
+    "@blueprintjs/table": "^3.2.0",
+    "ajv": "^6.5.4",
+    "node-sass": "^4.9.4",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
